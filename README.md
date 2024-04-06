@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" style="width: 200px; height: 200px;">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm RISHAV KUMAR</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 - 🔭 I’m currently working on **Freelancer**
 
@@ -11,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17kWq58c3SURq9vO70yQriwdHohE-_waL/view?usp=sharing](https://drive.google.com/file/d/17kWq58c3SURq9vO70yQriwdHohE-_waL/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://fb.com/rishav agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishav agarwal" height="30" width="40" /></a>
 <a href="https://instagram.com/rishavagarwal592" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishavagarwal592" height="30" width="40" /></a>
